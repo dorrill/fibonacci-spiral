@@ -73,4 +73,4 @@ The ratio of consecutive Fibonacci numbers approaches the golden ratio φ ≈ 1.
 
 ## License
 
-Add a license of your choice (MIT is common for small projects) as a `LICENSE` file.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
