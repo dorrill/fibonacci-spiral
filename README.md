@@ -12,7 +12,7 @@ A small Python script that draws the Fibonacci spiral with matplotlib. It tiles 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/fibonacci-spiral.git
+git clone https://github.com/dorrill/fibonacci-spiral.git
 cd fibonacci-spiral
 python3 -m venv .venv
 source .venv/bin/activate        # On Windows: .venv\Scripts\activate
